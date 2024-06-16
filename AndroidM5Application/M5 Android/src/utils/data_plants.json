@@ -1,0 +1,4534 @@
+[
+    {
+        "name": "citrus",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/kumzpu80/plant-sapling/4/l/l/no-perennial-no-live-red-blood-orange-malta-rare-fruit-plant-original-imag7pz8cm2mhha5.jpeg?q=20&crop=false",
+        "condition": {
+            "air": {
+                "min_temperature": 15.5,
+                "max_temperature": 29,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_atmosphere": 20,
+                "max_atmosphere": 60,
+                "min_brightness": 6005,
+                "max_brightness": 9910
+            },
+            "soil": {
+                "min_temperature": 15.5,
+                "max_temperature": 29.5,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_ec": 0.1,
+                "max_ec": 0.15,
+                "min_nitro": 120,
+                "max_nitro": 200,
+                "min_phosphorus": 30,
+                "max_phosphorus": 45,
+                "min_potassium": 60,
+                "max_potassium": 150,
+                "min_ph": 5.5,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 2.5,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 2,
+                "max_ph": 3,
+                "min_temperature": 20,
+                "max_temperature": 25,
+                "min_salinity": 140,
+                "max_salinity": 300
+            }
+        }
+    },
+    {
+        "name": "avocado",
+        "image": "https://eos.com/wp-content/uploads/2023/07/avocado-on-tree.jpg.webp",
+        "condition": {
+            "air": {
+                "min_temperature": -4,
+                "max_temperature": 21,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_atmosphere": 30,
+                "max_atmosphere": 50,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 25,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_ec": 0.1,
+                "max_ec": 0.5,
+                "min_nitro": 0.5,
+                "max_nitro": 0.8,
+                "min_phosphorus": 0.05,
+                "max_phosphorus": 0.19,
+                "min_potassium": 0.5,
+                "max_potassium": 0.75,
+                "min_ph": 5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 200,
+                "max_ec": 320,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 20,
+                "max_temperature": 25,
+                "min_salinity": 80,
+                "max_salinity": 100
+            }
+        }
+    },
+    {
+        "name": "banana",
+        "image": "https://cdn.wikifarmer.com/wp-content/uploads/2023/04/banana-water-needs-1024x668.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 27,
+                "max_temperature": 30,
+                "min_humidity": 90,
+                "max_humidity": 95,
+                "min_atmosphere": 20,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 10,
+                "max_temperature": 40,
+                "min_humidity": 74,
+                "max_humidity": 78,
+                "min_ec": 0.09,
+                "max_ec": 0.15,
+                "min_nitro": 0.1,
+                "max_nitro": 0.3,
+                "min_phosphorus": 0.1,
+                "max_phosphorus": 0.3,
+                "min_potassium": 0.1,
+                "max_potassium": 0.3,
+                "min_ph": 5.5,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 200,
+                "max_ec": 350,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 20,
+                "max_temperature": 25,
+                "min_salinity": 40,
+                "max_salinity": 60
+            }
+        }
+    },
+    {
+        "name": "grape",
+        "image": "https://www.rhs.org.uk/getmedia/42ce5519-1aa6-432d-86d2-45c18bc078f1/Vitis-Boskoop-Glory-_WSYD0012332.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 25,
+                "max_temperature": 32,
+                "min_humidity": 90,
+                "max_humidity": 95,
+                "min_atmosphere": 20,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 25,
+                "max_temperature": 32,
+                "min_humidity": 90,
+                "max_humidity": 95,
+                "min_ec": 1,
+                "max_ec": 2,
+                "min_nitro": 56,
+                "max_nitro": 114,
+                "min_phosphorus": 56,
+                "max_phosphorus": 114,
+                "min_potassium": 56,
+                "max_potassium": 114,
+                "min_ph": 5.5,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 6.5,
+                "min_temperature": 25,
+                "max_temperature": 32,
+                "min_salinity": 30,
+                "max_salinity": 40
+            }
+        }
+    },
+    {
+        "name": "mango",
+        "image": "https://daknonggeopark.com/wp-content/uploads/2021/11/DNAUGGP-site-19-A1-Cat-Hoa-Loc-mangoes-are-popular-in-Dak-Mil-district-within-the-Dak-Nong-geopark.-1024x684.jpg.webp",
+        "condition": {
+            "air": {
+                "min_temperature": 24,
+                "max_temperature": 27,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_atmosphere": 20,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 24,
+                "max_temperature": 27,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_ec": 1,
+                "max_ec": 2,
+                "min_nitro": 0.2,
+                "max_nitro": 1,
+                "min_phosphorus": 0.2,
+                "max_phosphorus": 1,
+                "min_potassium": 0.3,
+                "max_potassium": 1.5,
+                "min_ph": 5.5,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 6.5,
+                "min_temperature": 24,
+                "max_temperature": 27,
+                "min_salinity": 12,
+                "max_salinity": 23
+            }
+        }
+    },
+    {
+        "name": "papaya",
+        "image": "https://cdn.mos.cms.futurecdn.net/UbnGHL3BHr4SRfBfmSnYCQ-1200-80.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 21,
+                "max_temperature": 32,
+                "min_humidity": 90,
+                "max_humidity": 95,
+                "min_atmosphere": 15,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 21,
+                "max_temperature": 32,
+                "min_humidity": 90,
+                "max_humidity": 95,
+                "min_ec": 1,
+                "max_ec": 2,
+                "min_nitro": 0.4,
+                "max_nitro": 0.6,
+                "min_phosphorus": 0.25,
+                "max_phosphorus": 0.5,
+                "min_potassium": 0.8,
+                "max_potassium": 1.2,
+                "min_ph": 6,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.5,
+                "min_temperature": 21,
+                "max_temperature": 32,
+                "min_salinity": 10,
+                "max_salinity": 15
+            }
+        }
+    },
+    {
+        "name": "apple",
+        "image": "https://www.gardenexpress.com.au/wp-content/uploads/2021/07/Apple-Jonathan-TREAPPJON.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 32,
+                "max_temperature": 33,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_atmosphere": 15,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 32,
+                "max_temperature": 33,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_ec": 2.5,
+                "max_ec": 5.5,
+                "min_nitro": 0.2,
+                "max_nitro": 0.5,
+                "min_phosphorus": 0.1,
+                "max_phosphorus": 0.2,
+                "min_potassium": 0.2,
+                "max_potassium": 0.5,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2.5,
+                "max_ec": 5.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 32,
+                "max_temperature": 33,
+                "min_salinity": 13,
+                "max_salinity": 20
+            }
+        }
+    },
+    {
+        "name": "guava",
+        "image": "https://gardeningsg.nparks.gov.sg/images/Plants/guava_jacquelinechua.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 2,
+                "max_temperature": 35,
+                "min_humidity": 69,
+                "max_humidity": 80,
+                "min_atmosphere": 10,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 2,
+                "max_temperature": 35,
+                "min_humidity": 69,
+                "max_humidity": 80,
+                "min_ec": 2,
+                "max_ec": 5,
+                "min_nitro": 0.3,
+                "max_nitro": 0.5,
+                "min_phosphorus": 0.6,
+                "max_phosphorus": 0.8,
+                "min_potassium": 0.9,
+                "max_potassium": 1.2,
+                "min_ph": 5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5,
+                "max_ph": 7,
+                "min_temperature": 2,
+                "max_temperature": 35,
+                "min_salinity": 30,
+                "max_salinity": 40
+            }
+        }
+    },
+    {
+        "name": "pineapple",
+        "image": "https://cdn.britannica.com/54/119354-050-FA32210A/pineapple.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 15.5,
+                "max_temperature": 32,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_atmosphere": 10,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 15.5,
+                "max_temperature": 32,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_ec": 1.28,
+                "max_ec": 1.5,
+                "min_nitro": 500,
+                "max_nitro": 800,
+                "min_phosphorus": 50,
+                "max_phosphorus": 180,
+                "min_potassium": 600,
+                "max_potassium": 900,
+                "min_ph": 4.5,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1.28,
+                "max_ec": 1.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 4.5,
+                "max_ph": 6.5,
+                "min_temperature": 15.5,
+                "max_temperature": 32,
+                "min_salinity": 40,
+                "max_salinity": 45
+            }
+        }
+    },
+    {
+        "name": "rambutan",
+        "image": "https://www.epicgardening.com/wp-content/uploads/2023/02/rambutan-tree.jpeg",
+        "condition": {
+            "air": {
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_humidity": 75,
+                "max_humidity": 90,
+                "min_atmosphere": 10,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_humidity": 75,
+                "max_humidity": 90,
+                "min_ec": 1.28,
+                "max_ec": 1.5,
+                "min_nitro": 15,
+                "max_nitro": 20,
+                "min_phosphorus": 30,
+                "max_phosphorus": 40,
+                "min_potassium": 15,
+                "max_potassium": 30,
+                "min_ph": 5.5,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1.28,
+                "max_ec": 1.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 6.5,
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_salinity": 30,
+                "max_salinity": 35
+            }
+        }
+    },
+    {
+        "name": "cucumber",
+        "image": "https://tuigarden.co.nz/media/3206/cucumber_growing_guide.png",
+        "condition": {
+            "air": {
+                "min_temperature": 21,
+                "max_temperature": 26,
+                "min_humidity": 85,
+                "max_humidity": 95,
+                "min_atmosphere": 15,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 21,
+                "max_temperature": 26,
+                "min_humidity": 85,
+                "max_humidity": 95,
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_nitro": 2,
+                "max_nitro": 10,
+                "min_phosphorus": 3,
+                "max_phosphorus": 10,
+                "min_potassium": 6,
+                "max_potassium": 100,
+                "min_ph": 6,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.5,
+                "min_temperature": 21,
+                "max_temperature": 26,
+                "min_salinity": 12,
+                "max_salinity": 15
+            }
+        }
+    },
+    {
+        "name": "tomato",
+        "image": "https://extension.unh.edu/sites/default/files/styles/landscape_480x310/public/migrated_images/tomato-4241980_1920.jpg?h=fd7911e8&itok=0tAuGqIE",
+        "condition": {
+            "air": {
+                "min_temperature": 15,
+                "max_temperature": 32,
+                "min_humidity": 60,
+                "max_humidity": 85,
+                "min_atmosphere": 15,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 15,
+                "max_temperature": 32,
+                "min_humidity": 60,
+                "max_humidity": 85,
+                "min_ec": 0.25,
+                "max_ec": 0.5,
+                "min_nitro": 6,
+                "max_nitro": 8,
+                "min_phosphorus": 24,
+                "max_phosphorus": 32,
+                "min_potassium": 16,
+                "max_potassium": 32,
+                "min_ph": 6.2,
+                "max_ph": 6.8
+            },
+            "water": {
+                "min_ec": 0.25,
+                "max_ec": 0.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6.2,
+                "max_ph": 6.8,
+                "min_temperature": 15,
+                "max_temperature": 32,
+                "min_salinity": 30,
+                "max_salinity": 40
+            }
+        }
+    },
+    {
+        "name": "carrot",
+        "image": "https://www.almanac.com/sites/default/files/styles/or/public/image_nodes/carrots-table_popidar-ss.jpg?itok=-6KDefXK",
+        "condition": {
+            "air": {
+                "min_temperature": 4,
+                "max_temperature": 26,
+                "min_humidity": 60,
+                "max_humidity": 70,
+                "min_atmosphere": 10,
+                "max_atmosphere": 15,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 4,
+                "max_temperature": 26,
+                "min_humidity": 60,
+                "max_humidity": 70,
+                "min_ec": 1.6,
+                "max_ec": 2,
+                "min_nitro": 0,
+                "max_nitro": 5,
+                "min_phosphorus": 10,
+                "max_phosphorus": 15,
+                "min_potassium": 10,
+                "max_potassium": 15,
+                "min_ph": 6,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1.6,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.5,
+                "min_temperature": 4,
+                "max_temperature": 26,
+                "min_salinity": 21,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "potato",
+        "image": "https://img.hunkercdn.com/375/clsd/getty/9c42fb9797ef4d82af2ff48b09e5c515.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 7,
+                "max_temperature": 26,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_atmosphere": 10,
+                "max_atmosphere": 15,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 7,
+                "max_temperature": 26,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_ec": 1.2,
+                "max_ec": 1.6,
+                "min_nitro": 4,
+                "max_nitro": 5,
+                "min_phosphorus": 2,
+                "max_phosphorus": 10,
+                "min_potassium": 1,
+                "max_potassium": 10,
+                "min_ph": 6,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1.2,
+                "max_ec": 1.6,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.5,
+                "min_temperature": 7,
+                "max_temperature": 26,
+                "min_salinity": 21,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "onion",
+        "image": "https://bonnieplants.com/cdn/shop/articles/BONNIE_onions_iStock-892022394-1800px_cf21330f-cbf5-4e85-8212-15855474e8a6.jpg?v=1642541973&width=1000",
+        "condition": {
+            "air": {
+                "min_temperature": 4.4,
+                "max_temperature": 24,
+                "min_humidity": 30,
+                "max_humidity": 50,
+                "min_atmosphere": 10,
+                "max_atmosphere": 15,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 4.4,
+                "max_temperature": 27,
+                "min_humidity": 30,
+                "max_humidity": 50,
+                "min_ec": 3.5,
+                "max_ec": 4,
+                "min_nitro": 60,
+                "max_nitro": 100,
+                "min_phosphorus": 25,
+                "max_phosphorus": 45,
+                "min_potassium": 45,
+                "max_potassium": 80,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 3.5,
+                "max_ec": 4,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 4.4,
+                "max_temperature": 27,
+                "min_salinity": 21,
+                "max_salinity": 23
+            }
+        }
+    },
+    {
+        "name": "longan",
+        "image": "https://hugaplant.com/cdn/shop/products/MAIN_975a9b83-5446-4095-95de-6d65558fd9e8_1200x.png?v=1674045023",
+        "condition": {
+            "air": {
+                "min_temperature": 21,
+                "max_temperature": 30,
+                "min_humidity": 70,
+                "max_humidity": 90,
+                "min_atmosphere": 25,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 21,
+                "max_temperature": 30,
+                "min_humidity": 70,
+                "max_humidity": 90,
+                "min_ec": 3.5,
+                "max_ec": 4,
+                "min_nitro": 0.625,
+                "max_nitro": 1.5,
+                "min_phosphorus": 0.3,
+                "max_phosphorus": 0.86,
+                "min_potassium": 0.8,
+                "max_potassium": 1.74,
+                "min_ph": 5.5,
+                "max_ph": 6
+            },
+            "water": {
+                "min_ec": 3.5,
+                "max_ec": 4,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 6,
+                "min_temperature": 21,
+                "max_temperature": 30,
+                "min_salinity": 22,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "custard apple",
+        "image": "https://www.agrifarming.in/wp-content/uploads/2015/03/Custard-apple-or-sitaphal.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 20,
+                "max_temperature": 35,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_atmosphere": 25,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 35,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_ec": 3.5,
+                "max_ec": 4,
+                "min_nitro": 0.25,
+                "max_nitro": 0.5,
+                "min_phosphorus": 0.125,
+                "max_phosphorus": 0.25,
+                "min_potassium": 0.25,
+                "max_potassium": 0.5,
+                "min_ph": 5.5,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 3.5,
+                "max_ec": 4,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 6.5,
+                "min_temperature": 20,
+                "max_temperature": 35,
+                "min_salinity": 21,
+                "max_salinity": 30
+            }
+        }
+    },
+    {
+        "name": "rose apple",
+        "image": "https://www.agrifarming.in/wp-content/uploads/2017/07/Rose-Apple-Growing..jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 27,
+                "max_temperature": 32,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_atmosphere": 25,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 27,
+                "max_temperature": 32,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_ec": 2.5,
+                "max_ec": 3,
+                "min_nitro": 10,
+                "max_nitro": 15,
+                "min_phosphorus": 10,
+                "max_phosphorus": 15,
+                "min_potassium": 10,
+                "max_potassium": 15,
+                "min_ph": 5.5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2.5,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 7,
+                "min_temperature": 27,
+                "max_temperature": 32,
+                "min_salinity": 16,
+                "max_salinity": 20
+            }
+        }
+    },
+    {
+        "name": "plum",
+        "image": "https://www.plantmegreen.com/cdn/shop/products/MorrisPlumFruitDetail_PMG.jpg?v=1637184813",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_atmosphere": 25,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 31,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_ec": 2.5,
+                "max_ec": 3,
+                "min_nitro": 1,
+                "max_nitro": 2,
+                "min_phosphorus": 1,
+                "max_phosphorus": 2,
+                "min_potassium": 1,
+                "max_potassium": 2,
+                "min_ph": 6,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 2.5,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.5,
+                "min_temperature": 20,
+                "max_temperature": 32,
+                "min_salinity": 21,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "durian",
+        "image": "https://angkorgreen.com.kh/wp-content/uploads/2022/05/Durian.png",
+        "condition": {
+            "air": {
+                "min_temperature": 24,
+                "max_temperature": 29,
+                "min_humidity": 75,
+                "max_humidity": 80,
+                "min_atmosphere": 25,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 24,
+                "max_temperature": 29,
+                "min_humidity": 75,
+                "max_humidity": 80,
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_nitro": 0,
+                "max_nitro": 10,
+                "min_phosphorus": 30,
+                "max_phosphorus": 40,
+                "min_potassium": 20,
+                "max_potassium": 40,
+                "min_ph": 5.5,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 6.5,
+                "min_temperature": 24,
+                "max_temperature": 29,
+                "min_salinity": 21,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "jackfruit",
+        "image": "https://www.asiafarming.com/wp-content/uploads/2023/08/Growing-Jackfruit-in-the-Philipines1.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 20,
+                "max_temperature": 41,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_atmosphere": 25,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 41,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_ec": 3,
+                "max_ec": 3.5,
+                "min_nitro": 15,
+                "max_nitro": 21,
+                "min_phosphorus": 12,
+                "max_phosphorus": 19,
+                "min_potassium": 13,
+                "max_potassium": 20,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 3,
+                "max_ec": 3.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 20,
+                "max_temperature": 41,
+                "min_salinity": 32,
+                "max_salinity": 34
+            }
+        }
+    },
+    {
+        "name": "sapodilla",
+        "image": "https://m.media-amazon.com/images/I/513wWB3Kp2L._AC_UF350,350_QL80_.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_atmosphere": 20,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_ec": 3,
+                "max_ec": 3.5,
+                "min_nitro": 0.2,
+                "max_nitro": 1,
+                "min_phosphorus": 0.2,
+                "max_phosphorus": 1,
+                "min_potassium": 0.3,
+                "max_potassium": 1.5,
+                "min_ph": 6,
+                "max_ph": 8
+            },
+            "water": {
+                "min_ec": 3,
+                "max_ec": 3.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 8,
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_salinity": 32,
+                "max_salinity": 37
+            }
+        }
+    },
+    {
+        "name": "pomelo",
+        "image": "https://www.picturethisai.com/wiki-image/1080/153669699350036511.jpeg",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_humidity": 75,
+                "max_humidity": 85,
+                "min_atmosphere": 20,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_humidity": 75,
+                "max_humidity": 85,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 2,
+                "max_nitro": 3,
+                "min_phosphorus": 1,
+                "max_phosphorus": 1,
+                "min_potassium": 1,
+                "max_potassium": 1,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 6.5,
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_salinity": 35,
+                "max_salinity": 40
+            }
+        }
+    },
+    {
+        "name": "tangerine",
+        "image": "https://cdn.mos.cms.futurecdn.net/LCURb5nzsK5zDxv3iaLUyW.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 23,
+                "max_temperature": 35,
+                "min_humidity": 50,
+                "max_humidity": 60,
+                "min_atmosphere": 20,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 23,
+                "max_temperature": 35,
+                "min_humidity": 50,
+                "max_humidity": 60,
+                "min_ec": 1,
+                "max_ec": 2,
+                "min_nitro": 120,
+                "max_nitro": 200,
+                "min_phosphorus": 30,
+                "max_phosphorus": 45,
+                "min_potassium": 60,
+                "max_potassium": 150,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 23,
+                "max_temperature": 35,
+                "min_salinity": 35,
+                "max_salinity": 37
+            }
+        }
+    },
+    {
+        "name": "peach",
+        "image": "https://www.bhg.com/thmb/kdYfB-oVtVF3Dz0yXMLi0wSdQ-s=/550x0/filters:no_upscale():strip_icc()/BHG116403-1d19cb363cc24ec79917ff58ce7ca122.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 5,
+                "max_temperature": 35,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_atmosphere": 15,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 5,
+                "max_temperature": 35,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_nitro": 12,
+                "max_nitro": 16,
+                "min_phosphorus": 4,
+                "max_phosphorus": 4,
+                "min_potassium": 8,
+                "max_potassium": 8,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 5,
+                "max_temperature": 35,
+                "min_salinity": 12,
+                "max_salinity": 15
+            }
+        }
+    },
+    {
+        "name": "persimmon",
+        "image": "https://www.bhg.com/thmb/kdYfB-oVtVF3Dz0yXMLi0wSdQ-s=/550x0/filters:no_upscale():strip_icc()/BHG116403-1d19cb363cc24ec79917ff58ce7ca122.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 15,
+                "max_temperature": 35,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_atmosphere": 20,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 15,
+                "max_temperature": 35,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 8,
+                "max_nitro": 10,
+                "min_phosphorus": 8,
+                "max_phosphorus": 10,
+                "min_potassium": 8,
+                "max_potassium": 10,
+                "min_ph": 6,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.5,
+                "min_temperature": 15,
+                "max_temperature": 35,
+                "min_salinity": 12,
+                "max_salinity": 18
+            }
+        }
+    },
+    {
+        "name": "kiwifruit",
+        "image": "https://www.almanac.com/sites/default/files/styles/or/public/image_nodes/kiwi-close.jpg?itok=U8iAzlE4",
+        "condition": {
+            "air": {
+                "min_temperature": 10,
+                "max_temperature": 18,
+                "min_humidity": 60,
+                "max_humidity": 70,
+                "min_atmosphere": 20,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 10,
+                "max_temperature": 18,
+                "min_humidity": 60,
+                "max_humidity": 70,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 8,
+                "max_nitro": 10,
+                "min_phosphorus": 8,
+                "max_phosphorus": 10,
+                "min_potassium": 8,
+                "max_potassium": 10,
+                "min_ph": 5.5,
+                "max_ph": 7.5
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 7.5,
+                "min_temperature": 15,
+                "max_temperature": 23,
+                "min_salinity": 12,
+                "max_salinity": 17
+            }
+        }
+    },
+    {
+        "name": "strawberry",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp9DQlw8c_ml3YTuxJgde74QAlrIWl4lXwaOtGLYtAArIFY00Qpltvd_JfpoLYl9YPU-Y&usqp=CAU",
+        "condition": {
+            "air": {
+                "min_temperature": 13,
+                "max_temperature": 22,
+                "min_humidity": 60,
+                "max_humidity": 75,
+                "min_atmosphere": 20,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 13,
+                "max_temperature": 22,
+                "min_humidity": 60,
+                "max_humidity": 75,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 5,
+                "max_nitro": 8,
+                "min_phosphorus": 10,
+                "max_phosphorus": 24,
+                "min_potassium": 5,
+                "max_potassium": 8,
+                "min_ph": 5.3,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.3,
+                "max_ph": 6.5,
+                "min_temperature": 13,
+                "max_temperature": 22,
+                "min_salinity": 15,
+                "max_salinity": 20
+            }
+        }
+    },
+    {
+        "name": "cabbage",
+        "image": "https://bonnieplants.com/cdn/shop/articles/BONNIE_cabbage_iStock-503870662-1800px_31bfd05a-f56d-40ce-8dab-adac49ea5d80.jpg?v=1642541962",
+        "condition": {
+            "air": {
+                "min_temperature": 13,
+                "max_temperature": 24,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_atmosphere": 20,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 13,
+                "max_temperature": 24,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 10,
+                "max_nitro": 12,
+                "min_phosphorus": 10,
+                "max_phosphorus": 12,
+                "min_potassium": 10,
+                "max_potassium": 12,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 13,
+                "max_temperature": 24,
+                "min_salinity": 26,
+                "max_salinity": 30
+            }
+        }
+    },
+    {
+        "name": "broccoli",
+        "image": "https://www.almanac.com/sites/default/files/styles/large/public/image_nodes/broccoli-plant.jpg?itok=UhoNNwTO",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 26,
+                "min_humidity": 95,
+                "max_humidity": 100,
+                "min_atmosphere": 30,
+                "max_atmosphere": 40,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 26,
+                "min_humidity": 95,
+                "max_humidity": 100,
+                "min_ec": 3,
+                "max_ec": 3.5,
+                "min_nitro": 5,
+                "max_nitro": 15,
+                "min_phosphorus": 10,
+                "max_phosphorus": 20,
+                "min_potassium": 15,
+                "max_potassium": 30,
+                "min_ph": 6,
+                "max_ph": 6.8
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.8,
+                "min_temperature": 18,
+                "max_temperature": 26,
+                "min_salinity": 26,
+                "max_salinity": 32
+            }
+        }
+    },
+    {
+        "name": "passionfruit",
+        "image": "https://lawn.com.au/wp-content/uploads/2021/06/how-to-grow-passion-fruit-2.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 28,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 28,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_ec": 3,
+                "max_ec": 3.5,
+                "min_nitro": 6,
+                "max_nitro": 10,
+                "min_phosphorus": 6,
+                "max_phosphorus": 20,
+                "min_potassium": 6,
+                "max_potassium": 10,
+                "min_ph": 4.5,
+                "max_ph": 5.5
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 4.5,
+                "max_ph": 5.5,
+                "min_temperature": 18,
+                "max_temperature": 28,
+                "min_salinity": 32,
+                "max_salinity": 40
+            }
+        }
+    },
+    {
+        "name": "dragonfruit",
+        "image": "https://thanhhagroup.com/en/wp-content/uploads/2020/06/thanhlong.jpg.webp",
+        "condition": {
+            "air": {
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_humidity": 70,
+                "max_humidity": 90,
+                "min_atmosphere": 25,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_humidity": 70,
+                "max_humidity": 90,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 13,
+                "max_nitro": 16,
+                "min_phosphorus": 13,
+                "max_phosphorus": 16,
+                "min_potassium": 13,
+                "max_potassium": 16,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_salinity": 32,
+                "max_salinity": 45
+            }
+        }
+    },
+    {
+        "name": "watermelon",
+        "image": "https://www.thespruce.com/thmb/FQEJK_TMRNcnZfQr97S6GZGaJVY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grow-watermelons-1403491-hero-2d1ce0752fed4ed599db3ba3b231f8b7.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 21,
+                "max_temperature": 32,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_atmosphere": 25,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 21,
+                "max_temperature": 32,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 10,
+                "max_nitro": 40,
+                "min_phosphorus": 10,
+                "max_phosphorus": 50,
+                "min_potassium": 10,
+                "max_potassium": 50,
+                "min_ph": 6,
+                "max_ph": 6.8
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.8,
+                "min_temperature": 21,
+                "max_temperature": 32,
+                "min_salinity": 32,
+                "max_salinity": 35
+            }
+        }
+    },
+    {
+        "name": "cashew apple",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cashew_apples.jpg/640px-Cashew_apples.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 17,
+                "max_temperature": 37.8,
+                "min_humidity": 65,
+                "max_humidity": 80,
+                "min_atmosphere": 25,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 17,
+                "max_temperature": 37.8,
+                "min_humidity": 65,
+                "max_humidity": 80,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 5,
+                "max_nitro": 6,
+                "min_phosphorus": 7,
+                "max_phosphorus": 8,
+                "min_potassium": 7,
+                "max_potassium": 8,
+                "min_ph": 5.5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 7,
+                "min_temperature": 17,
+                "max_temperature": 37.8,
+                "min_salinity": 37,
+                "max_salinity": 40
+            }
+        }
+    },
+    {
+        "name": "coconut",
+        "image": "https://lh3.googleusercontent.com/proxy/Tma-2--09Bqk901hGosG34F9MdH_w27FrLmnFExgxp74RZHBtlVq0ZqRH1kVep-fy32kfsrHUqDxrWd1w4LaJs4BS3iDidcyzX-D9ZBsg42CKKJ_L_uPhXZ_wNDaxUEhN-qKuTsD86xWfrq5tERdmDHKbdYG",
+        "condition": {
+            "air": {
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_humidity": 80,
+                "max_humidity": 85,
+                "min_atmosphere": 30,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_humidity": 80,
+                "max_humidity": 85,
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_nitro": 1.3,
+                "max_nitro": 2,
+                "min_phosphorus": 2,
+                "max_phosphorus": 2.7,
+                "min_potassium": 2,
+                "max_potassium": 2.7,
+                "min_ph": 6.4,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6.4,
+                "max_ph": 7,
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_salinity": 17,
+                "max_salinity": 20
+            }
+        }
+    },
+    {
+        "name": "lychee",
+        "image": "https://www.agrifarming.in/wp-content/uploads/2022/04/Steps-to-Boost-Litchi3.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_humidity": 70,
+                "max_humidity": 80,
+                "min_atmosphere": 25,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_humidity": 70,
+                "max_humidity": 80,
+                "min_ec": 1,
+                "max_ec": 1.5,
+                "min_nitro": 2,
+                "max_nitro": 8,
+                "min_phosphorus": 3,
+                "max_phosphorus": 12,
+                "min_potassium": 3,
+                "max_potassium": 12,
+                "min_ph": 5,
+                "max_ph": 5.5
+            },
+            "water": {
+                "min_ec": 1,
+                "max_ec": 1.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5,
+                "max_ph": 5.5,
+                "min_temperature": 20,
+                "max_temperature": 38,
+                "min_salinity": 17,
+                "max_salinity": 20
+            }
+        }
+    },
+    {
+        "name": "mangosteen",
+        "image": "https://royalsplant.com/wp-content/uploads/2023/12/81vd5x7wDjL._AC_UF10001000_QL80_.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 25,
+                "max_temperature": 35,
+                "min_humidity": 65,
+                "max_humidity": 80,
+                "min_atmosphere": 25,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 25,
+                "max_temperature": 35,
+                "min_humidity": 65,
+                "max_humidity": 80,
+                "min_ec": 1,
+                "max_ec": 1.5,
+                "min_nitro": 6,
+                "max_nitro": 10,
+                "min_phosphorus": 6,
+                "max_phosphorus": 20,
+                "min_potassium": 6,
+                "max_potassium": 20,
+                "min_ph": 5,
+                "max_ph": 6
+            },
+            "water": {
+                "min_ec": 1,
+                "max_ec": 1.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5,
+                "max_ph": 6,
+                "min_temperature": 25,
+                "max_temperature": 35,
+                "min_salinity": 17,
+                "max_salinity": 20
+            }
+        }
+    },
+    {
+        "name": "pomegranate",
+        "image": "https://treesagainstpoverty.org/cdn/shop/products/pomegranateF.png?v=1654474420",
+        "condition": {
+            "air": {
+                "min_temperature": 5,
+                "max_temperature": 38,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 5,
+                "max_temperature": 38,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_ec": 1,
+                "max_ec": 1.5,
+                "min_nitro": 10,
+                "max_nitro": 14,
+                "min_phosphorus": 10,
+                "max_phosphorus": 14,
+                "min_potassium": 10,
+                "max_potassium": 14,
+                "min_ph": 5.5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1,
+                "max_ec": 1.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 7,
+                "min_temperature": 5,
+                "max_temperature": 38,
+                "min_salinity": 17,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "eggplant",
+        "image": "https://gardenerspath.com/wp-content/uploads/2022/03/How-to-Grow-Eggplant-in-Containers-Feature.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 20,
+                "max_temperature": 30,
+                "min_humidity": 60,
+                "max_humidity": 90,
+                "min_atmosphere": 15,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 30,
+                "min_humidity": 60,
+                "max_humidity": 90,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 15,
+                "max_nitro": 17,
+                "min_phosphorus": 15,
+                "max_phosphorus": 17,
+                "min_potassium": 15,
+                "max_potassium": 17,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 20,
+                "max_temperature": 30,
+                "min_salinity": 10,
+                "max_salinity": 12
+            }
+        }
+    },
+    {
+        "name": "sweet potato",
+        "image": "https://gardenerspath.com/wp-content/uploads/2022/03/How-to-Grow-Eggplant-in-Containers-Feature.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 24,
+                "max_temperature": 35,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_atmosphere": 10,
+                "max_atmosphere": 15,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 24,
+                "max_temperature": 35,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 10,
+                "max_nitro": 12,
+                "min_phosphorus": 10,
+                "max_phosphorus": 12,
+                "min_potassium": 10,
+                "max_potassium": 12,
+                "min_ph": 5.8,
+                "max_ph": 6
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.8,
+                "max_ph": 6,
+                "min_temperature": 24,
+                "max_temperature": 35,
+                "min_salinity": 10,
+                "max_salinity": 30
+            }
+        }
+    },
+    {
+        "name": "corn",
+        "image": "https://images.twnmm.com/c55i45ef3o2a/1iAz1Nzjbm3CQnGVafCUSv/b7881c049e95ae9a99fa872bb94d6523/getty_cornfield.jpg?fm=webp",
+        "condition": {
+            "air": {
+                "min_temperature": 29,
+                "max_temperature": 33,
+                "min_humidity": 50,
+                "max_humidity": 80,
+                "min_atmosphere": 20,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 29,
+                "max_temperature": 33,
+                "min_humidity": 50,
+                "max_humidity": 80,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 15,
+                "max_nitro": 120,
+                "min_phosphorus": 15,
+                "max_phosphorus": 60,
+                "min_potassium": 6,
+                "max_potassium": 40,
+                "min_ph": 6,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.5,
+                "min_temperature": 29,
+                "max_temperature": 33,
+                "min_salinity": 15,
+                "max_salinity": 20
+            }
+        }
+    },
+    {
+        "name": "garlic",
+        "image": "https://www.thespruce.com/thmb/1YULsE2a19Rgk1NNHiobzfie-rU=/5750x0/filters:no_upscale():max_bytes(150000):strip_icc()/hardneck-and-softneck-garlic-2540056-02-187d9130324346319f9d2df16a7124c5.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 13,
+                "max_temperature": 24,
+                "min_humidity": 50,
+                "max_humidity": 75,
+                "min_atmosphere": 20,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 13,
+                "max_temperature": 24,
+                "min_humidity": 50,
+                "max_humidity": 75,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 5,
+                "max_nitro": 16,
+                "min_phosphorus": 10,
+                "max_phosphorus": 32,
+                "min_potassium": 10,
+                "max_potassium": 32,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 13,
+                "max_temperature": 24,
+                "min_salinity": 8,
+                "max_salinity": 10
+            }
+        }
+    },
+    {
+        "name": "pepper",
+        "image": "https://t3.ftcdn.net/jpg/05/08/83/58/360_F_508835815_p2C7i9ns7ce7q2WndBAwE1DaeipglA4H.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 21,
+                "max_temperature": 27,
+                "min_humidity": 65,
+                "max_humidity": 85,
+                "min_atmosphere": 22,
+                "max_atmosphere": 27,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 21,
+                "max_temperature": 27,
+                "min_humidity": 65,
+                "max_humidity": 85,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 2,
+                "max_nitro": 5,
+                "min_phosphorus": 10,
+                "max_phosphorus": 10,
+                "min_potassium": 10,
+                "max_potassium": 10,
+                "min_ph": 6.5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6.5,
+                "max_ph": 7,
+                "min_temperature": 21,
+                "max_temperature": 27,
+                "min_salinity": 15,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "white radish",
+        "image": "https://gardenerspath.com/wp-content/uploads/2023/05/How-to-Plant-and-Grow-Daikon-Radish.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 4,
+                "max_temperature": 21,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_atmosphere": 10,
+                "max_atmosphere": 15,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 4,
+                "max_temperature": 21,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 2,
+                "max_nitro": 5,
+                "min_phosphorus": 10,
+                "max_phosphorus": 10,
+                "min_potassium": 10,
+                "max_potassium": 10,
+                "min_ph": 6.5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6.5,
+                "max_ph": 7,
+                "min_temperature": 10,
+                "max_temperature": 21,
+                "min_salinity": 9,
+                "max_salinity": 13
+            }
+        }
+    },
+    {
+        "name": "artichoke",
+        "image": "https://cdn.shopify.com/s/files/1/0603/4892/4151/files/artichoke-plant-lo.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 15,
+                "max_temperature": 20,
+                "min_humidity": 80,
+                "max_humidity": 95,
+                "min_atmosphere": 30,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 15,
+                "max_temperature": 20,
+                "min_humidity": 80,
+                "max_humidity": 95,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 2,
+                "max_nitro": 5,
+                "min_phosphorus": 10,
+                "max_phosphorus": 25,
+                "min_potassium": 10,
+                "max_potassium": 25,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 15,
+                "max_temperature": 20,
+                "min_salinity": 15,
+                "max_salinity": 30
+            }
+        }
+    },
+    {
+        "name": "chayote",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3_toaG3XEz-j321j0HUElRIKd5YfalT-c1cZhSOqBIlwRNCq_Or9YYsjs5dyL5U95a4o&usqp=CAU",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 30,
+                "min_humidity": 87,
+                "max_humidity": 95,
+                "min_atmosphere": 30,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 30,
+                "min_humidity": 87,
+                "max_humidity": 95,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 5,
+                "max_nitro": 12,
+                "min_phosphorus": 10,
+                "max_phosphorus": 24,
+                "min_potassium": 10,
+                "max_potassium": 24,
+                "min_ph": 5.5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 7,
+                "min_temperature": 18,
+                "max_temperature": 30,
+                "min_salinity": 10,
+                "max_salinity": 20
+            }
+        }
+    },
+    {
+        "name": "spinach",
+        "image": "https://static.vinwonders.com/production/vietnamese-spinach-1.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 12.7,
+                "max_temperature": 16,
+                "min_humidity": 40,
+                "max_humidity": 70,
+                "min_atmosphere": 15,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 12.7,
+                "max_temperature": 16,
+                "min_humidity": 40,
+                "max_humidity": 70,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 5,
+                "max_nitro": 12,
+                "min_phosphorus": 10,
+                "max_phosphorus": 24,
+                "min_potassium": 10,
+                "max_potassium": 24,
+                "min_ph": 6,
+                "max_ph": 6.7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.7,
+                "min_temperature": 12.7,
+                "max_temperature": 16,
+                "min_salinity": 15,
+                "max_salinity": 30
+            }
+        }
+    },
+    {
+        "name": "celery",
+        "image": "https://extension.usu.edu/yardandgarden/images/celery-in-the-garden.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 16,
+                "max_temperature": 21,
+                "min_humidity": 40,
+                "max_humidity": 70,
+                "min_atmosphere": 15,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 16,
+                "max_temperature": 21,
+                "min_humidity": 40,
+                "max_humidity": 70,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 1.6,
+                "max_nitro": 3.6,
+                "min_phosphorus": 0.68,
+                "max_phosphorus": 1.5,
+                "min_potassium": 4,
+                "max_potassium": 6,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 16,
+                "max_temperature": 21,
+                "min_salinity": 5,
+                "max_salinity": 7
+            }
+        }
+    },
+    {
+        "name": "bell pepper",
+        "image": "https://www.haifa-group.com/sites/default/files/field/image/Pepper%20-%20mobile_0.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 15,
+                "max_temperature": 27,
+                "min_humidity": 70,
+                "max_humidity": 80,
+                "min_atmosphere": 20,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 15,
+                "max_temperature": 27,
+                "min_humidity": 70,
+                "max_humidity": 80,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 5,
+                "max_nitro": 10,
+                "min_phosphorus": 10,
+                "max_phosphorus": 20,
+                "min_potassium": 10,
+                "max_potassium": 20,
+                "min_ph": 6.5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6.5,
+                "max_ph": 7,
+                "min_temperature": 15,
+                "max_temperature": 27,
+                "min_salinity": 10,
+                "max_salinity": 15
+            }
+        }
+    },
+    {
+        "name": "pumpkin",
+        "image": "https://harvesttotable.com/wp-content/uploads/2009/03/Pumpkin-in-garden.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_nitro": 5,
+                "max_nitro": 5,
+                "min_phosphorus": 10,
+                "max_phosphorus": 15,
+                "min_potassium": 5,
+                "max_potassium": 5,
+                "min_ph": 6,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.5,
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_salinity": 27,
+                "max_salinity": 30
+            }
+        }
+    },
+    {
+        "name": "leek",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiZawc1_AuAxpfU5LVRtjFk-GIpLUzZ37F7OtC9petWw&s",
+        "condition": {
+            "air": {
+                "min_temperature": 13,
+                "max_temperature": 24,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 13,
+                "max_temperature": 24,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_nitro": 125,
+                "max_nitro": 223,
+                "min_phosphorus": 100,
+                "max_phosphorus": 120,
+                "min_potassium": 100,
+                "max_potassium": 120,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 13,
+                "max_temperature": 24,
+                "min_salinity": 40,
+                "max_salinity": 50
+            }
+        }
+    },
+    {
+        "name": "spring onion",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2020/9/FY/DZ/TD/112170684/2.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 15,
+                "max_temperature": 21,
+                "min_humidity": 90,
+                "max_humidity": 98,
+                "min_atmosphere": 35,
+                "max_atmosphere": 40,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 15,
+                "max_temperature": 21,
+                "min_humidity": 90,
+                "max_humidity": 98,
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_nitro": 1,
+                "max_nitro": 5,
+                "min_phosphorus": 5,
+                "max_phosphorus": 10,
+                "min_potassium": 5,
+                "max_potassium": 10,
+                "min_ph": 5.3,
+                "max_ph": 5.8
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.3,
+                "max_ph": 5.8,
+                "min_temperature": 15,
+                "max_temperature": 21,
+                "min_salinity": 15,
+                "max_salinity": 30
+            }
+        }
+    },
+    {
+        "name": "cauliflower",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjPxLyp7joZsDvyCcjNRDX9wKuFHg51S1DuUtuInt_Zg&s",
+        "condition": {
+            "air": {
+                "min_temperature": 15,
+                "max_temperature": 21,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 15,
+                "max_temperature": 21,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_ec": 1.6,
+                "max_ec": 2.2,
+                "min_nitro": 8,
+                "max_nitro": 48,
+                "min_phosphorus": 16,
+                "max_phosphorus": 24,
+                "min_potassium": 16,
+                "max_potassium": 24,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.6,
+                "max_ec": 2.2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 15,
+                "max_temperature": 21,
+                "min_salinity": 15,
+                "max_salinity": 30
+            }
+        }
+    },
+    {
+        "name": "okra",
+        "image": "https://www.hazzardsgreenhouse.com/Merchant2/graphics/00000015/O1174.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 24,
+                "max_temperature": 32,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 24,
+                "max_temperature": 32,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_ec": 1.6,
+                "max_ec": 2.5,
+                "min_nitro": 10,
+                "max_nitro": 90,
+                "min_phosphorus": 10,
+                "max_phosphorus": 120,
+                "min_potassium": 10,
+                "max_potassium": 150,
+                "min_ph": 6,
+                "max_ph": 6.8
+            },
+            "water": {
+                "min_ec": 1.6,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.8,
+                "min_temperature": 24,
+                "max_temperature": 32,
+                "min_salinity": 20,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "ginger",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0cbrBR0t6wa_TS8TdXD7pynZmXwtek77rNRNHAk9Fsw&s",
+        "condition": {
+            "air": {
+                "min_temperature": 21,
+                "max_temperature": 27,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 21,
+                "max_temperature": 27,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 60,
+                "max_nitro": 75,
+                "min_phosphorus": 30,
+                "max_phosphorus": 50,
+                "min_potassium": 40,
+                "max_potassium": 50,
+                "min_ph": 5.5,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 6.5,
+                "min_temperature": 21,
+                "max_temperature": 27,
+                "min_salinity": 20,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "turmeric",
+        "image": "https://thefarmette.pk/cdn/shop/products/image_eff4191a-f05e-420c-a0a9-830b8eaba636_554x554.jpg?v=1673082138",
+        "condition": {
+            "air": {
+                "min_temperature": 20,
+                "max_temperature": 30,
+                "min_humidity": 50,
+                "max_humidity": 65,
+                "min_atmosphere": 17,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 30,
+                "min_humidity": 50,
+                "max_humidity": 65,
+                "min_ec": 1,
+                "max_ec": 3,
+                "min_nitro": 1,
+                "max_nitro": 2,
+                "min_phosphorus": 0.5,
+                "max_phosphorus": 1,
+                "min_potassium": 1.5,
+                "max_potassium": 3,
+                "min_ph": 4.5,
+                "max_ph": 7.5
+            },
+            "water": {
+                "min_ec": 1,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 4.5,
+                "max_ph": 7.5,
+                "min_temperature": 20,
+                "max_temperature": 30,
+                "min_salinity": 20,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "enokitake",
+        "image": "https://m.media-amazon.com/images/I/21CLzfhAjUL._AC_UF1000,1000_QL80_.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 20,
+                "max_temperature": 23,
+                "min_humidity": 80,
+                "max_humidity": 90,
+                "min_atmosphere": 25,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 23,
+                "min_humidity": 50,
+                "max_humidity": 65,
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_nitro": 1,
+                "max_nitro": 2,
+                "min_phosphorus": 0.5,
+                "max_phosphorus": 1,
+                "min_potassium": 1.5,
+                "max_potassium": 3,
+                "min_ph": 6,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.5,
+                "min_temperature": 20,
+                "max_temperature": 23,
+                "min_salinity": 20,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "bitter melon",
+        "image": "https://plantura.garden/uk/wp-content/uploads/sites/2/2022/06/karela-vegetable.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 24,
+                "max_temperature": 31,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_atmosphere": 20,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 24,
+                "max_temperature": 31,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_nitro": 28,
+                "max_nitro": 70,
+                "min_phosphorus": 10,
+                "max_phosphorus": 25,
+                "min_potassium": 10,
+                "max_potassium": 25,
+                "min_ph": 5.5,
+                "max_ph": 6.7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 6.7,
+                "min_temperature": 24,
+                "max_temperature": 31,
+                "min_salinity": 30,
+                "max_salinity": 39
+            }
+        }
+    },
+    {
+        "name": "lettuce",
+        "image": "https://m.media-amazon.com/images/I/61XuVaw1j1L._AC_UF1000,1000_QL80_.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 16,
+                "max_temperature": 18,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_atmosphere": 15,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 16,
+                "max_temperature": 18,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_nitro": 8,
+                "max_nitro": 20,
+                "min_phosphorus": 15,
+                "max_phosphorus": 20,
+                "min_potassium": 36,
+                "max_potassium": 40,
+                "min_ph": 5.5,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 6.5,
+                "min_temperature": 16,
+                "max_temperature": 18,
+                "min_salinity": 21,
+                "max_salinity": 42
+            }
+        }
+    },
+    {
+        "name": "bean sprouts",
+        "image": "https://i.ytimg.com/vi/lIVdAMJZ8uU/maxresdefault.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 21,
+                "max_temperature": 27,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_atmosphere": 15,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 21,
+                "max_temperature": 27,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_nitro": 5,
+                "max_nitro": 10,
+                "min_phosphorus": 10,
+                "max_phosphorus": 20,
+                "min_potassium": 10,
+                "max_potassium": 20,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 21,
+                "max_temperature": 27,
+                "min_salinity": 20,
+                "max_salinity": 40
+            }
+        }
+    },
+    {
+        "name": "kohlrabi",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4A3iTfJxXxFg29muYg_NutApF1QfG64AQmT-smCY_zQ&s",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 24,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_atmosphere": 15,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 24,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 160,
+                "max_nitro": 80,
+                "min_phosphorus": 120,
+                "max_phosphorus": 60,
+                "min_potassium": 60,
+                "max_potassium": 30,
+                "min_ph": 6,
+                "max_ph": 7.5
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7.5,
+                "min_temperature": 18,
+                "max_temperature": 24,
+                "min_salinity": 4.4,
+                "max_salinity": 6
+            }
+        }
+    },
+    {
+        "name": "loofah",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFMy6Eg4muTTvIcIIJiCL22AXl1l-v7TCR0n_abZJNg&s",
+        "condition": {
+            "air": {
+                "min_temperature": 24,
+                "max_temperature": 35,
+                "min_humidity": 70,
+                "max_humidity": 80,
+                "min_atmosphere": 25,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 24,
+                "max_temperature": 35,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 50,
+                "max_nitro": 100,
+                "min_phosphorus": 25,
+                "max_phosphorus": 50,
+                "min_potassium": 25,
+                "max_potassium": 50,
+                "min_ph": 5.5,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 6.5,
+                "min_temperature": 24,
+                "max_temperature": 35,
+                "min_salinity": 18.3,
+                "max_salinity": 20
+            }
+        }
+    },
+    {
+        "name": "beetroot",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6G3SB2TpYoC3CMAskeysM5XpiZOWa3anJOfxr1oyUfw&s",
+        "condition": {
+            "air": {
+                "min_temperature": 10,
+                "max_temperature": 30,
+                "min_humidity": 75,
+                "max_humidity": 80,
+                "min_atmosphere": 25,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 10,
+                "max_temperature": 30,
+                "min_humidity": 75,
+                "max_humidity": 80,
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_nitro": 160,
+                "max_nitro": 80,
+                "min_phosphorus": 120,
+                "max_phosphorus": 60,
+                "min_potassium": 60,
+                "max_potassium": 30,
+                "min_ph": 6.5,
+                "max_ph": 7.5
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6.5,
+                "max_ph": 7.5,
+                "min_temperature": 20,
+                "max_temperature": 30,
+                "min_salinity": 32.6,
+                "max_salinity": 35
+            }
+        }
+    },
+    {
+        "name": "marrow",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhorticulture.co.uk%2Fmarrows%2F&psig=AOvVaw0oTqnecSlvma3etGHQJjLU&ust=1712587866497000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDD1Y6tsIUDFQAAAAAdAAAAABAd",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 21,
+                "min_humidity": 55,
+                "max_humidity": 75,
+                "min_atmosphere": 15,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 21,
+                "min_humidity": 55,
+                "max_humidity": 75,
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_nitro": 2,
+                "max_nitro": 4,
+                "min_phosphorus": 3,
+                "max_phosphorus": 6,
+                "min_potassium": 2,
+                "max_potassium": 4,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 18,
+                "max_temperature": 21,
+                "min_salinity": 20,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "cantaloupe",
+        "image": "https://growfully.com/wp-content/uploads/2021/01/cantaloupe-plants-growing-in-garden.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 35,
+                "min_humidity": 60,
+                "max_humidity": 70,
+                "min_atmosphere": 15,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 35,
+                "min_humidity": 60,
+                "max_humidity": 70,
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_nitro": 1,
+                "max_nitro": 10,
+                "min_phosphorus": 4,
+                "max_phosphorus": 5,
+                "min_potassium": 2,
+                "max_potassium": 20,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 18,
+                "max_temperature": 35,
+                "min_salinity": 15,
+                "max_salinity": 26
+            }
+        }
+    },
+    {
+        "name": "honeydew",
+        "image": "https://bonnieplants.com/cdn/shop/articles/BONNIE_cantaloupe_iStock-529129835-1800px_7416592c-606f-47c8-9286-05b593d1c802.jpg?v=1642541963",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 25,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_atmosphere": 15,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 25,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_ec": 2,
+                "max_ec": 3.5,
+                "min_nitro": 10,
+                "max_nitro": 15.5,
+                "min_phosphorus": 10,
+                "max_phosphorus": 25,
+                "min_potassium": 10,
+                "max_potassium": 25,
+                "min_ph": 6,
+                "max_ph": 8
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 3.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 8,
+                "min_temperature": 18,
+                "max_temperature": 25,
+                "min_salinity": 18.6,
+                "max_salinity": 29.6
+            }
+        }
+    },
+    {
+        "name": "straw mushrooms",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmushroommountain.com%2Fhow-to-grow-paddy-straw-mushrooms-volvariella-volvacea%2F&psig=AOvVaw1HrsVTBkvm6HQovLrRxN_l&ust=1712589539528000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDo3auzsIUDFQAAAAAdAAAAABAE",
+        "condition": {
+            "air": {
+                "min_temperature": 28,
+                "max_temperature": 38,
+                "min_humidity": 80,
+                "max_humidity": 90,
+                "min_atmosphere": 30,
+                "max_atmosphere": 40,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 28,
+                "max_temperature": 38,
+                "min_humidity": 80,
+                "max_humidity": 90,
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_nitro": 1,
+                "max_nitro": 1.12,
+                "min_phosphorus": 1,
+                "max_phosphorus": 2.5,
+                "min_potassium": 1,
+                "max_potassium": 3.5,
+                "min_ph": 5.5,
+                "max_ph": 6
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 6,
+                "min_temperature": 28,
+                "max_temperature": 38,
+                "min_salinity": 17.1,
+                "max_salinity": 20.5
+            }
+        }
+    },
+    {
+        "name": "oyster mushrooms",
+        "image": "https://urban-farm-it.com/cdn/shop/articles/joant-zBBSJrsIMVo-unsplash.jpg?v=1678786966",
+        "condition": {
+            "air": {
+                "min_temperature": 13,
+                "max_temperature": 15.5,
+                "min_humidity": 80,
+                "max_humidity": 90,
+                "min_atmosphere": 30,
+                "max_atmosphere": 40,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 13,
+                "max_temperature": 15.5,
+                "min_humidity": 80,
+                "max_humidity": 90,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 1,
+                "max_nitro": 1.12,
+                "min_phosphorus": 1,
+                "max_phosphorus": 2.5,
+                "min_potassium": 1,
+                "max_potassium": 3.5,
+                "min_ph": 5.8,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.8,
+                "max_ph": 7,
+                "min_temperature": 13,
+                "max_temperature": 15.5,
+                "min_salinity": 17,
+                "max_salinity": 23
+            }
+        }
+    },
+    {
+        "name": "walnut",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIYQXmVwQ2LC1EBbjXFTLmrvAqnLjNwsEjkzm5NX7nQ&s",
+        "condition": {
+            "air": {
+                "min_temperature": 5,
+                "max_temperature": 35,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_atmosphere": 15,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 5,
+                "max_temperature": 35.5,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 10,
+                "max_nitro": 20,
+                "min_phosphorus": 10,
+                "max_phosphorus": 10,
+                "min_potassium": 10,
+                "max_potassium": 10,
+                "min_ph": 5.5,
+                "max_ph": 7.5
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 7.5,
+                "min_temperature": 10,
+                "max_temperature": 35,
+                "min_salinity": 11,
+                "max_salinity": 15
+            }
+        }
+    },
+    {
+        "name": "almond",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/10/2022/01/2048x1365-Prunus-dulcis-SEO-GettyImages-1149096340-5ab80f6.jpeg?quality=90&resize=940,627",
+        "condition": {
+            "air": {
+                "min_temperature": 10,
+                "max_temperature": 32,
+                "min_humidity": 20,
+                "max_humidity": 55,
+                "min_atmosphere": 5,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 10,
+                "max_temperature": 32,
+                "min_humidity": 5,
+                "max_humidity": 55,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 12,
+                "max_nitro": 15,
+                "min_phosphorus": 12,
+                "max_phosphorus": 15,
+                "min_potassium": 12,
+                "max_potassium": 15,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 12,
+                "max_temperature": 32,
+                "min_salinity": 28,
+                "max_salinity": 30
+            }
+        }
+    },
+    {
+        "name": "macadamia",
+        "image": "https://morningchores.com/wp-content/uploads/2021/03/macadamia-nuts.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 25,
+                "max_temperature": 35,
+                "min_humidity": 25,
+                "max_humidity": 30,
+                "min_atmosphere": 5,
+                "max_atmosphere": 15,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 10,
+                "max_temperature": 32,
+                "min_humidity": 25,
+                "max_humidity": 30,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 12,
+                "max_nitro": 15,
+                "min_phosphorus": 12,
+                "max_phosphorus": 15,
+                "min_potassium": 12,
+                "max_potassium": 15,
+                "min_ph": 5.5,
+                "max_ph": 6
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 6,
+                "min_temperature": 25,
+                "max_temperature": 35,
+                "min_salinity": 20,
+                "max_salinity": 30
+            }
+        }
+    },
+    {
+        "name": "chestnut",
+        "image": "https://morsenursery.com/cdn/shop/files/MorseChestnut.jpg?v=1702331520",
+        "condition": {
+            "air": {
+                "min_temperature": 16,
+                "max_temperature": 27,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_atmosphere": 10,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 16,
+                "max_temperature": 27,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_ec": 1,
+                "max_ec": 2.5,
+                "min_nitro": 15,
+                "max_nitro": 20,
+                "min_phosphorus": 9,
+                "max_phosphorus": 14,
+                "min_potassium": 12,
+                "max_potassium": 17,
+                "min_ph": 4.5,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 4.5,
+                "max_ph": 6.5,
+                "min_temperature": 16,
+                "max_temperature": 27,
+                "min_salinity": 20,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "pistachio",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8LnDVZiAzqo4WXyvjMDBYqSwWfDj0DmJjQVvI9YXagQ&s",
+        "condition": {
+            "air": {
+                "min_temperature": 25,
+                "max_temperature": 35,
+                "min_humidity": 11,
+                "max_humidity": 87,
+                "min_atmosphere": 5,
+                "max_atmosphere": 40,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 25,
+                "max_temperature": 35,
+                "min_humidity": 11,
+                "max_humidity": 87,
+                "min_ec": 3,
+                "max_ec": 4,
+                "min_nitro": 12,
+                "max_nitro": 15,
+                "min_phosphorus": 12,
+                "max_phosphorus": 15,
+                "min_potassium": 17,
+                "max_potassium": 20,
+                "min_ph": 7,
+                "max_ph": 8
+            },
+            "water": {
+                "min_ec": 3,
+                "max_ec": 4,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 7,
+                "max_ph": 8,
+                "min_temperature": 25,
+                "max_temperature": 35,
+                "min_salinity": 35,
+                "max_salinity": 41
+            }
+        }
+    },
+    {
+        "name": "peanut",
+        "image": "https://i0.wp.com/hayefield.com/wp-content/uploads/2011/01/peanut-early-spanish-closeup-5-oct-22-07.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 18.3,
+                "max_temperature": 21,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18.3,
+                "max_temperature": 21,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 5,
+                "max_nitro": 20,
+                "min_phosphorus": 10,
+                "max_phosphorus": 40,
+                "min_potassium": 15,
+                "max_potassium": 60,
+                "min_ph": 6,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.5,
+                "min_temperature": 18.3,
+                "max_temperature": 21,
+                "min_salinity": 20,
+                "max_salinity": 30
+            }
+        }
+    },
+    {
+        "name": "soybean",
+        "image": "https://i0.wp.com/hayefield.com/wp-content/uploads/2011/01/peanut-early-spanish-closeup-5-oct-22-07.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 10,
+                "max_temperature": 21,
+                "min_humidity": 60,
+                "max_humidity": 75,
+                "min_atmosphere": 20,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 10,
+                "max_temperature": 21,
+                "min_humidity": 60,
+                "max_humidity": 75,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 1.3,
+                "max_nitro": 2,
+                "min_phosphorus": 0.13,
+                "max_phosphorus": 0.83,
+                "min_potassium": 0.75,
+                "max_potassium": 1.45,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 12,
+                "max_temperature": 21,
+                "min_salinity": 20,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "soybean",
+        "image": "https://www.agrifarming.in/wp-content/uploads/2022/03/Fertilizer-for-Soybean2.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 10,
+                "max_temperature": 21,
+                "min_humidity": 60,
+                "max_humidity": 75,
+                "min_atmosphere": 20,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 10,
+                "max_temperature": 21,
+                "min_humidity": 60,
+                "max_humidity": 75,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 1.3,
+                "max_nitro": 2,
+                "min_phosphorus": 0.13,
+                "max_phosphorus": 0.83,
+                "min_potassium": 0.75,
+                "max_potassium": 1.45,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 12,
+                "max_temperature": 21,
+                "min_salinity": 5,
+                "max_salinity": 20
+            }
+        }
+    },
+    {
+        "name": "mung beans",
+        "image": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/324156_2200-800x1200.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 27,
+                "max_temperature": 30,
+                "min_humidity": 60,
+                "max_humidity": 85,
+                "min_atmosphere": 20,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 27,
+                "max_temperature": 30,
+                "min_humidity": 60,
+                "max_humidity": 85,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 1,
+                "max_nitro": 1.1,
+                "min_phosphorus": 0.5,
+                "max_phosphorus": 2.5,
+                "min_potassium": 1.59,
+                "max_potassium": 3.18,
+                "min_ph": 6.3,
+                "max_ph": 7.2
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6.3,
+                "max_ph": 7.2,
+                "min_temperature": 27,
+                "max_temperature": 30,
+                "min_salinity": 9,
+                "max_salinity": 18
+            }
+        }
+    },
+    {
+        "name": "kidney beans",
+        "image": "https://www.gardenia.net/wp-content/uploads/2023/05/phaseolus-vulgaris-kidney-beans.webp",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_humidity": 40,
+                "max_humidity": 70,
+                "min_atmosphere": 15,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_humidity": 40,
+                "max_humidity": 70,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 1,
+                "max_nitro": 1.1,
+                "min_phosphorus": 0.5,
+                "max_phosphorus": 2.5,
+                "min_potassium": 1.59,
+                "max_potassium": 3.18,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_salinity": 30,
+                "max_salinity": 50
+            }
+        }
+    },
+    {
+        "name": "black beans",
+        "image": "https://preview.redd.it/black-beans-i-grew-as-an-experiment-this-summer-id-say-v0-rahzkkryt7vb1.jpg?width=640&crop=smart&auto=webp&s=dcab2fa7abecb8a6894f7b0ff94d7731a5f38c71",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_humidity": 40,
+                "max_humidity": 70,
+                "min_atmosphere": 15,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_humidity": 40,
+                "max_humidity": 70,
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_nitro": 1,
+                "max_nitro": 1.1,
+                "min_phosphorus": 0.5,
+                "max_phosphorus": 2.5,
+                "min_potassium": 1.59,
+                "max_potassium": 3.18,
+                "min_ph": 6,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 6.5,
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_salinity": 5,
+                "max_salinity": 8
+            }
+        }
+    },
+    {
+        "name": "lentil",
+        "image": "https://heartbeetfarms.com/wp-content/uploads/2021/01/lentil-harvest-1600x899.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 4,
+                "max_temperature": 20,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 4,
+                "max_temperature": 20,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_nitro": 1,
+                "max_nitro": 1.1,
+                "min_phosphorus": 0.5,
+                "max_phosphorus": 2.5,
+                "min_potassium": 1.59,
+                "max_potassium": 3.18,
+                "min_ph": 6,
+                "max_ph": 8
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 8,
+                "min_temperature": 18,
+                "max_temperature": 25,
+                "min_salinity": 9.6,
+                "max_salinity": 10.7
+            }
+        }
+    },
+    {
+        "name": "peas",
+        "image": "https://safiorganics.co.ke/wp-content/uploads/2021/12/Peas.webp",
+        "condition": {
+            "air": {
+                "min_temperature": 10,
+                "max_temperature": 18,
+                "min_humidity": 90,
+                "max_humidity": 98,
+                "min_atmosphere": 50,
+                "max_atmosphere": 60,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 10,
+                "max_temperature": 18,
+                "min_humidity": 90,
+                "max_humidity": 80,
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_nitro": 50,
+                "max_nitro": 60,
+                "min_phosphorus": 70,
+                "max_phosphorus": 80,
+                "min_potassium": 60,
+                "max_potassium": 70,
+                "min_ph": 6,
+                "max_ph": 7.5
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7.5,
+                "min_temperature": 12,
+                "max_temperature": 20,
+                "min_salinity": 18,
+                "max_salinity": 23
+            }
+        }
+    },
+    {
+        "name": "green beans",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMT19vVAWg0XeABK5UQBPiMRowL-Fv_rSNAWa2q3beZw&s",
+        "condition": {
+            "air": {
+                "min_temperature": 19,
+                "max_temperature": 29,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_atmosphere": 10,
+                "max_atmosphere": 15,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 19,
+                "max_temperature": 29,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_nitro": 8.8,
+                "max_nitro": 10,
+                "min_phosphorus": 0.9,
+                "max_phosphorus": 1.8,
+                "min_potassium": 5.8,
+                "max_potassium": 11.6,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 19,
+                "max_temperature": 29,
+                "min_salinity": 20,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "seasame seeds",
+        "image": "https://cdn.britannica.com/66/212766-050-FF1A49A0/sesame-seeds-wooden-spoon.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 26,
+                "max_temperature": 30,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_atmosphere": 10,
+                "max_atmosphere": 15,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 26,
+                "max_temperature": 30,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_ec": 1.5,
+                "max_ec": 3,
+                "min_nitro": 50,
+                "max_nitro": 60,
+                "min_phosphorus": 60,
+                "max_phosphorus": 70,
+                "min_potassium": 35,
+                "max_potassium": 45,
+                "min_ph": 5,
+                "max_ph": 8
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5,
+                "max_ph": 8,
+                "min_temperature": 26,
+                "max_temperature": 30,
+                "min_salinity": 12,
+                "max_salinity": 17
+            }
+        }
+    },
+    {
+        "name": "chia seeds",
+        "image": "https://myplantin.com/_next/image?url=https%3A%2F%2Fstrapi.myplantin.com%2Fshutterstock_490420546_19235c39fb.webp&w=1920&q=75",
+        "condition": {
+            "air": {
+                "min_temperature": 20,
+                "max_temperature": 22,
+                "min_humidity": 10,
+                "max_humidity": 20,
+                "min_atmosphere": 2,
+                "max_atmosphere": 5,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 22,
+                "min_humidity": 10,
+                "max_humidity": 20,
+                "min_ec": 2,
+                "max_ec": 4,
+                "min_nitro": 30,
+                "max_nitro": 90,
+                "min_phosphorus": 20,
+                "max_phosphorus": 60,
+                "min_potassium": 25,
+                "max_potassium": 75,
+                "min_ph": 6.5,
+                "max_ph": 8.5
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 4,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6.5,
+                "max_ph": 8.5,
+                "min_temperature": 20,
+                "max_temperature": 22,
+                "min_salinity": 12,
+                "max_salinity": 17
+            }
+        }
+    },
+    {
+        "name": "knotgrass",
+        "image": "https://lh4.googleusercontent.com/proxy/JeDpguvbvTzMRRrPdznp52TpTwEVlHwlloXHwUGiz0HyiBWJQwBxH4L8rvlD6lzMNGUwUeRIXiO9mlyddrEbGOmWTgEW0JGRP9pnod-EmyRI7BPj1mZjyPke_FK7ewFke25W0rVKYso",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 24,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 24,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_ec": 1.5,
+                "max_ec": 3,
+                "min_nitro": 4,
+                "max_nitro": 10,
+                "min_phosphorus": 2,
+                "max_phosphorus": 8,
+                "min_potassium": 1,
+                "max_potassium": 9,
+                "min_ph": 5.8,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.8,
+                "max_ph": 7,
+                "min_temperature": 18,
+                "max_temperature": 24,
+                "min_salinity": 12,
+                "max_salinity": 20
+            }
+        }
+    },
+    {
+        "name": "fish mint",
+        "image": "https://www.thekitchenherbs.com/wp-content/uploads/2020/04/fish-mint_l.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_humidity": 60,
+                "max_humidity": 80,
+                "min_ec": 1.5,
+                "max_ec": 3,
+                "min_nitro": 4,
+                "max_nitro": 10,
+                "min_phosphorus": 2,
+                "max_phosphorus": 8,
+                "min_potassium": 1,
+                "max_potassium": 9,
+                "min_ph": 5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5,
+                "max_ph": 7,
+                "min_temperature": 18,
+                "max_temperature": 29,
+                "min_salinity": 15,
+                "max_salinity": 17
+            }
+        }
+    },
+    {
+        "name": "fennel",
+        "image": "https://cdn.loveandlemons.com/wp-content/uploads/2020/03/fennel.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 16,
+                "max_temperature": 27,
+                "min_humidity": 90,
+                "max_humidity": 95,
+                "min_atmosphere": 30,
+                "max_atmosphere": 35,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 16,
+                "max_temperature": 27,
+                "min_humidity": 90,
+                "max_humidity": 95,
+                "min_ec": 1.5,
+                "max_ec": 4,
+                "min_nitro": 5,
+                "max_nitro": 20,
+                "min_phosphorus": 3.5,
+                "max_phosphorus": 15.5,
+                "min_potassium": 12,
+                "max_potassium": 48,
+                "min_ph": 6.5,
+                "max_ph": 8
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 4,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6.5,
+                "max_ph": 8,
+                "min_temperature": 16,
+                "max_temperature": 27,
+                "min_salinity": 12,
+                "max_salinity": 20
+            }
+        }
+    },
+    {
+        "name": "perilla leaf",
+        "image": "https://www.smallfootprintfamily.com/wp-content/uploads/how-to-use-shiso-leaves.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 15,
+                "max_temperature": 24,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 15,
+                "max_temperature": 24,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_nitro": 5,
+                "max_nitro": 20,
+                "min_phosphorus": 3.5,
+                "max_phosphorus": 15.5,
+                "min_potassium": 12,
+                "max_potassium": 48,
+                "min_ph": 5.5,
+                "max_ph": 6.5
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 6.5,
+                "min_temperature": 15,
+                "max_temperature": 24,
+                "min_salinity": 15,
+                "max_salinity": 23
+            }
+        }
+    },
+    {
+        "name": "lemongrass",
+        "image": "https://y5kbp0ifnvobj.vcdn.cloud/uploads/filecloud/2021/June/19/8985-839351624077119-1624077119--400x400.png",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 32,
+                "min_humidity": 40,
+                "max_humidity": 70,
+                "min_atmosphere": 15,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 32,
+                "min_humidity": 40,
+                "max_humidity": 70,
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_nitro": 10,
+                "max_nitro": 30,
+                "min_phosphorus": 10,
+                "max_phosphorus": 30,
+                "min_potassium": 10,
+                "max_potassium": 30,
+                "min_ph": 6.5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6.5,
+                "max_ph": 7,
+                "min_temperature": 18,
+                "max_temperature": 32,
+                "min_salinity": 20,
+                "max_salinity": 30
+            }
+        }
+    },
+    {
+        "name": "peppermint",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHmB58p4ZW8yD6VmOLh2iy-VyglOKiPDOHF_MKtzDnEg&s",
+        "condition": {
+            "air": {
+                "min_temperature": 0,
+                "max_temperature": 32,
+                "min_humidity": 40,
+                "max_humidity": 70,
+                "min_atmosphere": 15,
+                "max_atmosphere": 25,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 12,
+                "max_temperature": 32,
+                "min_humidity": 10,
+                "max_humidity": 70,
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_nitro": 10,
+                "max_nitro": 50,
+                "min_phosphorus": 10,
+                "max_phosphorus": 75,
+                "min_potassium": 10,
+                "max_potassium": 50,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 15,
+                "max_temperature": 32,
+                "min_salinity": 12,
+                "max_salinity": 15
+            }
+        }
+    },
+    {
+        "name": "shallot",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeUKCUqQqPW_O0SB6zH71F6o2yqmRhMiKRd4v-Tp8y3g&s",
+        "condition": {
+            "air": {
+                "min_temperature": 13,
+                "max_temperature": 24,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 13,
+                "max_temperature": 24,
+                "min_humidity": 40,
+                "max_humidity": 50,
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_nitro": 10,
+                "max_nitro": 50,
+                "min_phosphorus": 10,
+                "max_phosphorus": 75,
+                "min_potassium": 10,
+                "max_potassium": 50,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 13,
+                "max_temperature": 24,
+                "min_salinity": 12,
+                "max_salinity": 23
+            }
+        }
+    },
+    {
+        "name": "choy sum",
+        "image": "https://veggies.my/cdn/shop/products/sawi-bunga.jpg?v=1576761897",
+        "condition": {
+            "air": {
+                "min_temperature": 15,
+                "max_temperature": 25,
+                "min_humidity": 30,
+                "max_humidity": 50,
+                "min_atmosphere": 12,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 15,
+                "max_temperature": 25,
+                "min_humidity": 30,
+                "max_humidity": 50,
+                "min_ec": 1,
+                "max_ec": 2,
+                "min_nitro": 10,
+                "max_nitro": 20,
+                "min_phosphorus": 10,
+                "max_phosphorus": 25,
+                "min_potassium": 10,
+                "max_potassium": 15,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1,
+                "max_ec": 2,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 15,
+                "max_temperature": 25,
+                "min_salinity": 15,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "lauki",
+        "image": "https://shashingautam.in/wp-content/uploads/2020/05/Lauki-Bottle-Gourd-Seeds-Buy-Online-2021.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 24,
+                "max_temperature": 30,
+                "min_humidity": 60,
+                "max_humidity": 70,
+                "min_atmosphere": 25,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 24,
+                "max_temperature": 30,
+                "min_humidity": 60,
+                "max_humidity": 70,
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_nitro": 2,
+                "max_nitro": 15,
+                "min_phosphorus": 1,
+                "max_phosphorus": 15,
+                "min_potassium": 1,
+                "max_potassium": 15,
+                "min_ph": 6.5,
+                "max_ph": 7.5
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.5,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6.5,
+                "max_ph": 7.5,
+                "min_temperature": 24,
+                "max_temperature": 30,
+                "min_salinity": 12,
+                "max_salinity": 17
+            }
+        }
+    },
+    {
+        "name": "tomatillo",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/full-frame-shot-of-tomatillo-royalty-free-image-1596225795.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+        "condition": {
+            "air": {
+                "min_temperature": 21,
+                "max_temperature": 32,
+                "min_humidity": 60,
+                "max_humidity": 70,
+                "min_atmosphere": 25,
+                "max_atmosphere": 30,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 21,
+                "max_temperature": 32,
+                "min_humidity": 60,
+                "max_humidity": 70,
+                "min_ec": 1.5,
+                "max_ec": 3,
+                "min_nitro": 5,
+                "max_nitro": 10,
+                "min_phosphorus": 10,
+                "max_phosphorus": 15,
+                "min_potassium": 10,
+                "max_potassium": 15,
+                "min_ph": 5.5,
+                "max_ph": 7.3
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 7.3,
+                "min_temperature": 21,
+                "max_temperature": 32,
+                "min_salinity": 25,
+                "max_salinity": 28
+            }
+        }
+    },
+    {
+        "name": "water spinach",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdoj6XcIfhVDw3IDDSi3t-W4XYYeVqemBBDX-Wm_XyEYOlvdCL",
+        "condition": {
+            "air": {
+                "min_temperature": 20,
+                "max_temperature": 30,
+                "min_humidity": 90,
+                "max_humidity": 95,
+                "min_atmosphere": 40,
+                "max_atmosphere": 50,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 30,
+                "min_humidity": 90,
+                "max_humidity": 95,
+                "min_ec": 1.5,
+                "max_ec": 2.8,
+                "min_nitro": 3.5,
+                "max_nitro": 9.99,
+                "min_phosphorus": 0.25,
+                "max_phosphorus": 3,
+                "min_potassium": 2,
+                "max_potassium": 9.99,
+                "min_ph": 5.5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.8,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 7,
+                "min_temperature": 20,
+                "max_temperature": 30,
+                "min_salinity": 11,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "malabar spinach",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1t6vIOkVhbchftJgfjqSvmpk4O-zVaLH0oQyrRfiDVC2DISOA",
+        "condition": {
+            "air": {
+                "min_temperature": 27,
+                "max_temperature": 32,
+                "min_humidity": 90,
+                "max_humidity": 95,
+                "min_atmosphere": 40,
+                "max_atmosphere": 50,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 27,
+                "max_temperature": 32,
+                "min_humidity": 90,
+                "max_humidity": 95,
+                "min_ec": 1.5,
+                "max_ec": 2.8,
+                "min_nitro": 3.5,
+                "max_nitro": 9.99,
+                "min_phosphorus": 0.25,
+                "max_phosphorus": 3,
+                "min_potassium": 2,
+                "max_potassium": 9.99,
+                "min_ph": 5.5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.5,
+                "max_ec": 2.8,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 7,
+                "min_temperature": 27,
+                "max_temperature": 32,
+                "min_salinity": 15,
+                "max_salinity": 25
+            }
+        }
+    },
+    {
+        "name": "pennywort",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Asiatic_Pennywort.jpg/1200px-Asiatic_Pennywort.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 15,
+                "max_temperature": 38,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_atmosphere": 25,
+                "max_atmosphere": 40,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 15,
+                "max_temperature": 38,
+                "min_humidity": 50,
+                "max_humidity": 70,
+                "min_ec": 2,
+                "max_ec": 2.8,
+                "min_nitro": 3.5,
+                "max_nitro": 10,
+                "min_phosphorus": 2.5,
+                "max_phosphorus": 10,
+                "min_potassium": 2,
+                "max_potassium": 10,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 2.8,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 15,
+                "max_temperature": 35,
+                "min_salinity": 25,
+                "max_salinity": 30
+            }
+        }
+    },
+    {
+        "name": "bok choy",
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/10/16/fresh-baby-bok-choy-in-wooden-bowl-on-wooden-surface.jpg.rend.hgtvcom.1280.960.suffix/1697479237849.jpeg",
+        "condition": {
+            "air": {
+                "min_temperature": 4,
+                "max_temperature": 24,
+                "min_humidity": 20,
+                "max_humidity": 30,
+                "min_atmosphere": 5,
+                "max_atmosphere": 10,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 10,
+                "max_temperature": 24,
+                "min_humidity": 20,
+                "max_humidity": 30,
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_nitro": 1,
+                "max_nitro": 12,
+                "min_phosphorus": 2,
+                "max_phosphorus": 24,
+                "min_potassium": 2,
+                "max_potassium": 12,
+                "min_ph": 6,
+                "max_ph": 7.5
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7.5,
+                "min_temperature": 10,
+                "max_temperature": 24,
+                "min_salinity": 26,
+                "max_salinity": 32
+            }
+        }
+    },
+    {
+        "name": "katuk",
+        "image": "https://plantfreak.files.wordpress.com/2012/03/euphorbiaceae-katuk-young-leaves.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 21,
+                "max_temperature": 32,
+                "min_humidity": 50,
+                "max_humidity": 80,
+                "min_atmosphere": 15,
+                "max_atmosphere": 40,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 21,
+                "max_temperature": 32,
+                "min_humidity": 50,
+                "max_humidity": 80,
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_nitro": 1,
+                "max_nitro": 12,
+                "min_phosphorus": 2,
+                "max_phosphorus": 24,
+                "min_potassium": 2,
+                "max_potassium": 12,
+                "min_ph": 6,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 2,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 6,
+                "max_ph": 7,
+                "min_temperature": 21,
+                "max_temperature": 32,
+                "min_salinity": 18,
+                "max_salinity": 22
+            }
+        }
+    },
+    {
+        "name": "cassava",
+        "image": "https://myserenitykids.com/cdn/shop/articles/loren-biser-vP5guwApg0g-unsplash_1.jpg?v=1687897032&width=2048",
+        "condition": {
+            "air": {
+                "min_temperature": 25,
+                "max_temperature": 29,
+                "min_humidity": 50,
+                "max_humidity": 80,
+                "min_atmosphere": 15,
+                "max_atmosphere": 40,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 25,
+                "max_temperature": 29,
+                "min_humidity": 50,
+                "max_humidity": 80,
+                "min_ec": 1.8,
+                "max_ec": 3,
+                "min_nitro": 15,
+                "max_nitro": 16,
+                "min_phosphorus": 15,
+                "max_phosphorus": 16,
+                "min_potassium": 15,
+                "max_potassium": 16,
+                "min_ph": 5.5,
+                "max_ph": 7.5
+            },
+            "water": {
+                "min_ec": 1.8,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 7.5,
+                "min_temperature": 25,
+                "max_temperature": 29,
+                "min_salinity": 22,
+                "max_salinity": 29
+            }
+        }
+    },
+    {
+        "name": "crown daisy",
+        "image": "https://asset.japantoday.com/img/store/a5/be/e7abfbff722d5d037f8803fe36e0714cf349/85285_01.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 20,
+                "max_temperature": 35,
+                "min_humidity": 50,
+                "max_humidity": 80,
+                "min_atmosphere": 15,
+                "max_atmosphere": 40,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 35,
+                "min_humidity": 50,
+                "max_humidity": 80,
+                "min_ec": 1.8,
+                "max_ec": 3,
+                "min_nitro": 15,
+                "max_nitro": 16,
+                "min_phosphorus": 15,
+                "max_phosphorus": 16,
+                "min_potassium": 15,
+                "max_potassium": 16,
+                "min_ph": 5.5,
+                "max_ph": 7.5
+            },
+            "water": {
+                "min_ec": 1.8,
+                "max_ec": 3,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 7.5,
+                "min_temperature": 20,
+                "max_temperature": 35,
+                "min_salinity": 12,
+                "max_salinity": 26
+            }
+        }
+    },
+    {
+        "name": "mustard greens",
+        "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/03/mustard-greens-leaf-1296x728-header.jpg?w=1155&h=1528",
+        "condition": {
+            "air": {
+                "min_temperature": 20,
+                "max_temperature": 27,
+                "min_humidity": 50,
+                "max_humidity": 60,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 20,
+                "max_temperature": 27,
+                "min_humidity": 50,
+                "max_humidity": 60,
+                "min_ec": 1.8,
+                "max_ec": 2.6,
+                "min_nitro": 15,
+                "max_nitro": 16,
+                "min_phosphorus": 15,
+                "max_phosphorus": 16,
+                "min_potassium": 15,
+                "max_potassium": 16,
+                "min_ph": 5.5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.8,
+                "max_ec": 2.6,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 7,
+                "min_temperature": 20,
+                "max_temperature": 27,
+                "min_salinity": 12,
+                "max_salinity": 23
+            }
+        }
+    },
+    {
+        "name": "amaranth",
+        "image": "https://ling-app.com/wp-content/uploads/2023/06/Vegetables-In-Vietnamese-Rau-Den.jpg",
+        "condition": {
+            "air": {
+                "min_temperature": 18,
+                "max_temperature": 24,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_atmosphere": 15,
+                "max_atmosphere": 20,
+                "min_brightness": 6000,
+                "max_brightness": 10000
+            },
+            "soil": {
+                "min_temperature": 18,
+                "max_temperature": 24,
+                "min_humidity": 40,
+                "max_humidity": 60,
+                "min_ec": 1.8,
+                "max_ec": 2.6,
+                "min_nitro": 80,
+                "max_nitro": 120,
+                "min_phosphorus": 50,
+                "max_phosphorus": 70,
+                "min_potassium": 50,
+                "max_potassium": 70,
+                "min_ph": 5.5,
+                "max_ph": 7
+            },
+            "water": {
+                "min_ec": 1.8,
+                "max_ec": 2.6,
+                "min_orp": 200,
+                "max_orp": 2000,
+                "min_ph": 5.5,
+                "max_ph": 7,
+                "min_temperature": 18,
+                "max_temperature": 24,
+                "min_salinity": 12,
+                "max_salinity": 25
+            }
+        }
+    }
+]
